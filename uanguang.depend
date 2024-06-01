@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655879547 source:d:\#sems2\praktikum daspro\tugas besar\uanguang\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+
