@@ -73,17 +73,61 @@ Tampilan awal program ketika dijalankan akan menampilkan menu yang ada. Saya aka
 
 ), `fileCash.txt` (jumlah setoran), dan `fileMonth.txt` (bulan inputan).
 
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image3.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image8.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image11.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image18.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image2.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image22.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image3.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image13.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image16.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image12.png)
+
 ## Input Pengeluaran
 Jika saya memasukkan angka 2 pada pilihan menu, program akan masuk ke menu input pengeluaran. Program akan menampilkan variabel pengeluaran di tiap bulannya. Selanjutnya, saya akan diminta memasukkan bulan pengeluaran tersebut dilakukan, dengan pilihan 1-12. Setelah memasukkan bulan pengeluaran, misalnya 1, program akan meminta saya untuk memasukkan pengeluaran yang ada. Jika pengeluaran dilakukan, saya bisa mengisi sesuai dengan daftar di atas (sebagai parameter). Jika tidak dilakukan pengeluaran pada variabel tertentu, saya bisa mengisi dengan 0. Jika sudah mengisi semua variabel, program akan menampilkan total pengeluaran yang dilakukan. Karena ada fungsi pause, saya diminta untuk menekan sembarang tombol (key). Setelah menekan tombol, program akan menampilkan menu awal lagi dan meminta saya untuk memilih menu yang tersedia.
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image21.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image10.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image3.png)
 
 ## Laporan Keuangan
 Jika saya memasukkan angka 3 pada pilihan menu, program akan masuk ke menu laporan keuangan. Program akan meminta saya untuk memasukkan bulan laporan yang ingin dibuat. Setelah saya memasukkan bulan laporan, misalnya 1, program akan membuat laporan pada `fileReport.txt`. Karena ada fungsi pause, saya diminta untuk menekan sembarang tombol (key). Setelah menekan tombol, program akan menampilkan menu awal lagi dan meminta saya untuk memilih menu yang tersedia.
 
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image15.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image4.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image20.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image3.png)
+
 ## Cari Data
 Jika saya memasukkan angka 4 pada pilihan menu, program akan masuk ke menu cari data. Program akan meminta saya untuk memasukkan nama (user) yang ingin dicari dalam program. Setelah memasukkan nama, program akan mencari nama tersebut dalam program. Apabila nama yang dicari ada, program akan menampilkan indeks dari nama tersebut beserta data dari nama (user) tersebut. Apabila nama yang dicari tidak ada, program akan kembali ke fungsi pause tanpa menampilkan data apapun. Karena ada fungsi pause, saya diminta untuk menekan sembarang tombol (key). Setelah menekan tombol, program akan menampilkan menu awal lagi dan meminta saya untuk memilih menu yang tersedia.
 
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image17.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image23.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image5.png)
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image3.png)
+
 ## Exit
 Jika saya memasukkan angka 0 pada pilihan menu, program akan berhenti berjalan. Data-data input masukan yang sebelumnya telah saya tambahkan akan tersimpan dalam program dan bisa diolah kembali ketika program dijalankan lagi.
+
+![Flowchart](https://github.com/Aryasharii/daspro-repository/blob/tubes/image/image6.png)
 
 # BAB III - SIMPULAN DAN SARAN
 
@@ -97,4 +141,4 @@ Untuk menyimpulkan hasil dari program yang saya buat, saya merangkumnya dalam be
   - Ya, aplikasi ini memberikan dampak yang baik terhadap pengguna. Pengguna dapat memanfaatkan fitur-fitur yang ada untuk membantu manajemen pemasukan dan pengeluaran uang yang dilakukan.
 
 ## 3.2 Saran
-Saya berharap ke depannya bisa dilakukan penambahan fitur-fitur pada program yang sekiranya dapat membantu pengguna dalam pengolahan manajemen keuangan. Saya juga berharap mendapatkan masukan dari pengguna jika menemukan kekurangan dari penggunaan program ini, agar ke depannya bisa dilakukan perbaikan terhad
+Saya berharap ke depannya bisa dilakukan penambahan fitur-fitur pada program yang sekiranya dapat membantu pengguna dalam pengolahan manajemen keuangan. Saya juga berharap mendapatkan masukan dari pengguna jika menemukan kekurangan dari penggunaan program ini, agar ke depannya bisa dilakukan perbaikan terhadap program
